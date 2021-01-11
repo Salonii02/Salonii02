@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 
-Github Stats are taken from https://github.com/anuraghazra/github-readme-stats
+Github Stats are made from https://github.com/anuraghazra/github-readme-stats

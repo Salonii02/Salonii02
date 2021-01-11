@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salonii02&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+Github Stats are taken from https://github.com/anuraghazra/github-readme-stats
